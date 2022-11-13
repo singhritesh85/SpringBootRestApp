@@ -1,3 +1,5 @@
 # SpringBootRestApp
 
+```
 gradle clean build
+```
